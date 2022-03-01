@@ -1,0 +1,70 @@
+segment_sources:
+  P851851A1:
+    type: origin_type
+    relation: translation
+    language: en
+  PA11B21AC:
+    type: origin_type
+    relation: translation
+    language: de
+  P34ACB334:
+    type: origin_type
+    relation: translation
+    language: fr
+  PACA45B55:
+    type: origin_type
+    relation: translation
+    language: it
+  P48D8FC55:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cc47680410ba49c484c44dcd16b7d4ac:
+    P851851A1: dcbfde949e22484cb4dae2c5a72da05f
+    PA11B21AC: 120fe07e377745858c16764b0adcbf11
+    P34ACB334: cf6eb13fbded4c22b411e5ad722d7dc8
+    PACA45B55: ef774a5c01d7455fa68bf57cfb68be1c
+    P48D8FC55: 647b2a86fe724753a64767dbeef282a7
+  7921f5378d844681a64d1c06e0fdbe75:
+    P851851A1: a8e9b30c7b8c44648fdedf70019380df
+    PA11B21AC: 4803576a53e14d19a193f34b12198c81
+    P34ACB334: 30926bb8b12b441893e76e3acd73352c
+    PACA45B55: 83d9e64051164befa3dac2a4bdad36f6
+    P48D8FC55: b4fe85bc60624870ab16c6d58efbe172
+  0da1d5bf269943fbbde236c5191155e4:
+    P851851A1: 7b643b26f75f4583b83cbca90c151f3b
+    PA11B21AC: 29dd2eb3764f4886947aef2cb3043bca
+    P34ACB334: a07cb36c974b41a6beb78bcef1bf3d97
+    PACA45B55: a165d10ca98947ab87e21508c6c80f05
+    P48D8FC55: 0ed2f55887774885a5d2588ee98dc42a
+  7307b35a19ad4e8b9327d403ecd942fb:
+    P851851A1: 087b229ad8f84b96b187e34f1a5c7af8
+    PA11B21AC: 23a7ff0006944abd89de10f9f42c989e
+    P34ACB334: 73fd0c14cec74f4e90e93fe8a777b194
+    PACA45B55: 8289101bcba247e0ab2b45d59b4dfba9
+    P48D8FC55: 64021a2a21b644d499f38af9ae2b9153
+  eb1e8325224d4c01845bb33c1b5cec52:
+    P851851A1: 65cc3c124aa44cc4a573635f670e3392
+    PA11B21AC: efda454ba52a49dd9a03ed1b26b327eb
+    P34ACB334: 39937a51ad3e4c14b4078e415e7789b0
+    PACA45B55: 9cac737417f24c5f8695017eac62a098
+    P48D8FC55: eb6d73735f0c430ab655a0eccf91cc1d
+  564099d2c52645ffa6bcf081bdfbe698:
+    P851851A1: 11414e7f575f40c18ef34aa3616c6048
+    PA11B21AC: 069c586e529447418ff5d81aa969c8eb
+    P34ACB334: 57b3c93a5cf34f44b16bb873b87cfa12
+    PACA45B55: 8e4add3e429f44dd80da0fce34cc33fc
+    P48D8FC55: 5b89dc84ed024500abe74bd4435c38e7
+  2f0c9bb7cab744069f54003b8d8187fc:
+    P851851A1: d9848c40c610440ab2b376a6dca4d673
+    PA11B21AC: 83179d4c163c497e965dacfed14d4203
+    P34ACB334: b0f57804fa8c498e8c9a5134cfc19899
+    PACA45B55: 91a69e2e89ca4ba486b5b008e0e1e9df
+    P48D8FC55: 09edf5d510264c5e8d010ca3f73e3ea9
+  6fec2aa281e7498a8527fcc559a4b24a:
+    P851851A1: 850d2de056fe42eea021ba8dabdc432e
+    PA11B21AC: 8c57efffb9a048b1a4b534fc421a4901
+    P34ACB334: fe79e8794a3a4523a31aa9135db5dd15
+    PACA45B55: a16195c4c1b943c5bc09efa7f0838ceb
+    P48D8FC55: 9f959deb540447ff912162a60eaa62be

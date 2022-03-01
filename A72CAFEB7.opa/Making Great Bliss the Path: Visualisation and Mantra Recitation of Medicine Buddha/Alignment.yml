@@ -1,0 +1,22 @@
+segment_sources:
+  P851851A1:
+    type: origin_type
+    relation: translation
+    language: en
+  P48D8FC55:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  239e2541c9a34762b896524bf8bbd4e4:
+    P851851A1: cfec699a5fa74c8bb3448b01ba75ac64
+    P48D8FC55: 9f6fbc45bdad459fb77537d5b59eb589
+  7bac8c77cfa64e35be1419c3f52bab20:
+    P851851A1: 4c194564e8ae4641ad1c6c72f56b5a7f
+    P48D8FC55: 830f1d8b2c754e21a01981ccea4d1e4a
+  b8b24bac33b94b8e90281b82c29dd16c:
+    P851851A1: 1da0ea02ef214f899ffa40614a74523d
+    P48D8FC55: 4433dc0787234c3d83ddaf06e6911fad
+  66e7f4b476a846a386ba8b0ce6bbce9a:
+    P851851A1: 62665f2fced0405e9e4d62b90f0060fc
+    P48D8FC55: a2cc76d8fcc140cda6d47df82191fbe6
